@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins;
+}
+
+body {
+  background: #e3eadd;
+}
+
+.cinput::placeholder {
+  color: #334cff !important; /* Light placeholder */
+  opacity: 1; /* Fully visible */
+}
